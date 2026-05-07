@@ -1,0 +1,2 @@
+provided makefile because it's what we used
+there was some resources in resources/ that we did use, but did have to remove some stuff like the instructions for privacy
